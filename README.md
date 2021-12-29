@@ -1,2 +1,0 @@
-# ChisolmGitHub
-made some changes
